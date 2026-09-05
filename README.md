@@ -1,5 +1,7 @@
 # NoTekno
 
+![C++](https://img.shields.io/badge/C%2B%2B-blue) ![Status](https://img.shields.io/badge/status-ativo-brightgreen) ![Privado](https://img.shields.io/badge/-privado-grey) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+
 Proxy `dinput8.dll` para **Wangan Midnight Maximum Tune 6RR** (arcade, Bandai Namco).
 Carrega a `dinput8.dll` original do sistema (o jogo continua funcionando normalmente),
 encadeia o carregamento do [OpenParrot](https://github.com/djhackersdev/openparrot) e do
