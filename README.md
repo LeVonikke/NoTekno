@@ -1,6 +1,6 @@
 # NoTekno
 
-![C++](https://img.shields.io/badge/C%2B%2B-blue) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Private](https://img.shields.io/badge/-private-grey) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![C++](https://img.shields.io/badge/C%2B%2B-blue) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 `dinput8.dll` proxy for **Wangan Midnight Maximum Tune 6RR** (arcade, Bandai Namco).
 Loads the system's real `dinput8.dll` (the game keeps working normally), chains the
